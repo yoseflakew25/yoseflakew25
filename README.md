@@ -1,4 +1,4 @@
-<img src="[/images/output/video1.gif](https://github.com/yoseflakew25/yoseflakew25/blob/main/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif)"  height="250"/>
+![](https://github.com/yoseflakew25/yoseflakew25/blob/main/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif)
 
 <h1 align="center">Hi 👋, I'm Yosef Lakew</h1>
 <h3 align="center">A passionate Software Engineer from Ethiopia</h3>
