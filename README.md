@@ -33,5 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoseflakew25&" alt="yoseflakew25" /></p>
 
-![Snake animation]https://github.com/yoseflakew25/yoseflakew25/blob/main/github-user-contribution%20(1).svg)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoseflakew25&" alt="yoseflakew25" /></p>
+![Snake animation](https://github.com/yoseflakew25/yoseflakew25/blob/main/github-user-contribution%20(1).svg)
 
