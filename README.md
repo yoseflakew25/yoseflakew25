@@ -34,6 +34,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoseflakew25&" alt="yoseflakew25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoseflakew25&" alt="yoseflakew25" /></p>
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=yoseflakew25&](https://github.com/yoseflakew25/yoseflakew25/blob/main/github-user-contribution%20(1).svg)" alt="yoseflakew25" /></p>
+
 
 
