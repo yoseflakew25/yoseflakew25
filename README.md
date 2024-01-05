@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jolarohe@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14nctwJSUs15XvKOXBWb_73iUAZ6GMUiw/view?usp=sharing](https://shorturl.at/bjmGN)
+- 📄 Know about my experiences [https://shorturl.at/bjmGN](https://shorturl.at/bjmGN)
 
 <picture>
   <source
