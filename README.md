@@ -1,7 +1,7 @@
 ![](https://github.com/yoseflakew25/yoseflakew25/blob/main/archi.gif)
 
 <h1 align="center">Hi 👋, I'm Yosef Lakew</h1>
-<h3 align="center">A passionate Software Engineer from Ethiopia</h3>
+<h3 align="center">Hi 👋! My name is Yosef Lakew and I'm a passionate software developer, from Ethiopia.</h3>
 
 - 🔭 I’m currently working on **Evently**
 
