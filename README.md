@@ -1,4 +1,4 @@
-![](https://github.com/yoseflakew25/yoseflakew25/blob/main/archi.gif)
+<img align="center"  width="800" height="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="cover" />
 
 <h2 align="center"> Hello < World >! My name is Yosef <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px' /> </h2>
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="cover" />
