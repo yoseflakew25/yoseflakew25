@@ -1,6 +1,6 @@
 ![](https://github.com/yoseflakew25/yoseflakew25/blob/main/archi.gif)
 
-<h1> Hello < World >! My name is Yosef <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px' /> </h1>
+<h2 align="center"> Hello < World >! My name is Yosef <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px' /> </h2>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="cover" />
 <h3 align="center">I'm a passionate software developer and UI/UX designer, from Ethiopia.</h3>
 
