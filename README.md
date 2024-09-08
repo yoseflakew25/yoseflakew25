@@ -1,24 +1,17 @@
 <h2 align="center"> Hello < World >! My name is Yosef <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px' /> </h2>
 <h3 align="center">I'm a passionate software developer and UI/UX designer, from Ethiopia.</h3>
 
+<br/>
+<br/>
+
 <img align="center"  width="800" height="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="cover" />
 
+###
 
+<p align="left">Hello there, I am Yohannes Teshome, a dynamic web and software developer, weaving lines of code into the rich tapestry of Ethiopia's digital future.<br><br>📫 Connect with Me:<br>Feel free to explore my GitHub repositories, delve into the code, and join the conversation. Collaboration fuels innovation. Let's build something extraordinary!<br><br>🌐 Digital Dreams Await - Yohannes Teshome</p>
 
-
-- 🔭 I’m currently working on **Evently**
-
-- 🌱 I’m currently learning **next js**
-
-- 👨‍💻 All of my projects are available at [https://portifoliov1-three.vercel.app/](https://portifoliov1-three.vercel.app/)
-
-- 📝 I regularly write articles on [https://code-blogs-mauve.vercel.app/](https://code-blogs-mauve.vercel.app/)
-
-- 💬 Ask me about **react,node,express**
-
-- 📫 How to reach me **jolarohe@gmail.com**
-
-- 📄 Know about my experiences [https://shorturl.at/bjmGN](https://shorturl.at/bjmGN)
+<br>
+<br>
 
 <picture>
   <source
