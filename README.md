@@ -10,7 +10,7 @@
 
 
 <p align="left">Hello there, I am Yosef Lakew, a passionate UI/UX designer and front-end developer, shaping seamless digital experiences and building Ethiopia's next wave of innovation.<br><br>📫 Connect with Me:<br>Explore my GitHub repositories to see my latest projects, dive into the code, and collaborate. Together, we can craft the future of technology.<br><br>🌐 Designing Tomorrow, Today – Yosef Lakew</p>
-
+<br/>
 
 
 
