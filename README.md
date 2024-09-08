@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+my+name+is+Yohannes+Teshome!;I+am+a+Software+Engineer.+;React.js%2C+Node%2C+Express)](https://git.io/typing-svg)
+
+
 <img align="center"  width="800" height="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="cover" />
 
 <h2 align="center"> Hello < World >! My name is Yosef <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px' /> </h2>
